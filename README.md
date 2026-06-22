@@ -4,8 +4,8 @@
 
 I build practical analytics projects using Python, R, SQL, and reproducible workflows — turning messy data into clear insights and decision-focused recommendations.
 
-[![GitHub](https://img.shields.io/badge/GitHub-daxiaoming2-black?style=for-the-badge&logo=github)](https://github.com/daxiaoming2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Jia-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-daxiaoming2-black?style=for-the-badge&logo=github)](https://github.com/Kevinjym)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Jia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-j-b899b023a/)
 
 ---
 
@@ -95,5 +95,5 @@ An optimization project modeling electric vehicle charging decisions under cost 
 
 ## 📫 Contact
 
-- GitHub: [github.com/daxiaoming2](https://github.com/daxiaoming2)
-- LinkedIn: [Kevin Jia](YOUR_LINKEDIN_URL_HERE)
+- GitHub: [github.com/daxiaoming2](https://github.com/Kevinjym)
+- LinkedIn: [Kevin Jia](https://www.linkedin.com/in/kevin-j-b899b023a/)
