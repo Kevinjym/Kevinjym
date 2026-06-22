@@ -95,5 +95,5 @@ An optimization project modeling electric vehicle charging decisions under cost 
 
 ## 📫 Contact
 
-- GitHub: [github.com/daxiaoming2](https://github.com/Kevinjym)
+- GitHub: [Kevinjym](https://github.com/Kevinjym)
 - LinkedIn: [Kevin Jia](https://www.linkedin.com/in/kevin-j-b899b023a/)
