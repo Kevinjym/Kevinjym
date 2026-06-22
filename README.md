@@ -4,7 +4,7 @@
 
 I build practical analytics projects using Python, R, SQL, and reproducible workflows — turning messy data into clear insights and decision-focused recommendations.
 
-[![GitHub](https://img.shields.io/badge/GitHub-daxiaoming2-black?style=for-the-badge&logo=github)](https://github.com/Kevinjym)
+[![GitHub](https://img.shields.io/badge/GitHub-Kevinjym-black?style=for-the-badge&logo=github)](https://github.com/Kevinjym)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Jia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-j-b899b023a/)
 
 ---
